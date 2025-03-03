@@ -26,6 +26,8 @@ Mise en place de la synchronisation des utilisateurs OpenLDAP à ceux de Authent
 
 1 clients : (Windows)
 
+* Installation/configuration pour un premier lancement disponible sur le site officiel d'Authentik.
+
 # Préparer le ldap
 
 * Installation mise à jour 
